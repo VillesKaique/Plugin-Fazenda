@@ -1,0 +1,8 @@
+main: me.villes.vplantacoes.Main
+name: vPlantacoes
+author: Villes
+version: 1.0
+api-version: 1.8
+commands:
+  fazenda:
+    description: 'cria uma fazenda'

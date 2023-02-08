@@ -1,0 +1,22 @@
+##########################################################
+##########################################################
+
+###### Item da Fazenda ######
+
+#ID do item
+item_id: 170
+
+#Nome do item
+item_name: '&eFazenda de Melancia'
+
+#Data do item
+item_data: 1
+
+#Lore do item
+item_lore:
+  - '&7Coloque este bloco no chão'
+  - '&7ppara que ele crie uma farm.'
+
+#############################
+farm_item: 103
+farm_data: 0
